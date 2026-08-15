@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Noteriv",
-  description: "A modern markdown editor",
+  title: "",
+  description: "",
 };
 
 export default function RootLayout({
